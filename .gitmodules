@@ -1,0 +1,12 @@
+[submodule "star-pleiades"]
+	path = star-pleiades
+	url = https://github.com/xcjk-tofuture/star-pleiades.git
+	branch = master
+[submodule "star-flight"]
+	path = star-flight
+	url = https://github.com/xcjk-tofuture/star-flight.git
+	branch = master
+[submodule "pollux-ar"]
+	path = pollux-ar
+	url = https://github.com/xcjk-tofuture/pollux-ar.git
+	branch = master
